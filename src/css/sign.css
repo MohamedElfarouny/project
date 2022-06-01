@@ -1,0 +1,100 @@
+           
+            .th
+            {
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                /* text-align: center;  */
+                color: rgb(210, 169, 243);
+                /* text-align: center; */
+               
+            }
+
+            .td
+            {
+                color:  #c5ecfd;
+                
+            }
+
+            .body
+            {
+               
+                width: 100%; 
+                height: 100vh;
+                background: linear-gradient(135deg, rgba(49,24,131,0.9) 0%,rgba(72,56,149,0.8)
+                100%) ,url("../images/Logo.png") center no-repeat fixed;
+               background-size: cover; 
+               position:relative;
+            }
+
+            .fieldset
+            {
+                background-color: rgba(0, 0, 0, 0.7);
+                border: none;
+                width: 650px;
+                height: 500px;
+                border-radius: 10px;
+                box-shadow: 10px 10px 50px;
+                position: absolute;
+                top: 15%;
+                left: 25%;
+                padding: 10px 20px;
+
+            }
+
+            .input
+            {
+                margin: 5px;
+                background: transparent;
+                border: 0;
+                border-bottom: 2px solid #c5ecfd;
+                padding: 5px;
+                color: #c5ecfd ;
+                width: 100%;
+            }
+
+            .radio
+            {
+                color: rgb(210, 169, 243);
+                margin: 2px; 
+            }
+
+            .buttons
+            {
+                background-color: rgb(137, 71, 192) ;
+                border: solid rgb(137, 71, 192) ;
+                border-width: 10px;
+                outline:rgb(137, 71, 192) ;
+                border-radius: 4px;
+                color: white;
+                margin: 8px;
+                font-size: 10pxS;
+            }
+            .style{
+                width: 60px;
+                min-block-size: 16;
+                min-block-size: 50;
+            }
+            /* .st{
+                width: 100px;
+            } */
+            .s{
+                float: right;
+            }
+            
+            p
+            {
+                background-color: rgba(54, 38, 134, 0.7) ;
+                z-index: -1;  
+                padding: 50px;
+            }
+            footer{
+                padding: 2.5rem 0;
+                text-align: center;
+                color: rgba(0,0,0,.7);
+                background-color: #d7d4ed;
+
+             }
+             .accord{
+                color: black;
+                font-size: 20px;
+           
+            }

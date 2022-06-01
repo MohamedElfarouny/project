@@ -1,0 +1,37 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  outline: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+}
+.Navigation {
+  background-color: black;
+  font-size: 10px;
+  height: 85px;
+}
+.mt {
+    justify-content: center;
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 0px;
+  size: 100%;
+}
+.services{
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.but{
+    margin-top: 20px;
+}
+.margt{
+    margin-top: 100px;
+}
